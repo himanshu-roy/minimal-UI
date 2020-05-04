@@ -1,21 +1,20 @@
 .looking-for-a-lollip {
     color: #31373D;
     font-family: aktiv-grotesk, sans-serif;
-    font-size: 50px;
+    font-size: 2rem;
     font-weight: 700;
-    line-height: 58px;
-    width: 489px;
-    text-align: left;
+    line-height: 40px;
+    text-align: left;   
+    text-shadow: 1.5px 0 #888888;
   }
 
   .body {
     color: #31373D;
     font-family: aktiv-grotesk, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 22px;
-    width: 489px;
-    text-align: left;
+    text-align: justify;
   }
 
   .cta-text1 {
@@ -37,10 +36,15 @@
   }
 
   .bg {
-    margin: 100px;
+    margin-top: 8%;
     background-image: linear-gradient(44.59deg, #D5E2E9 0%, #EAEEF1 100%);
-    width: 1267px;
     height: 409px;
+    width: 60rem;
+    position: absolute;
+  }
+
+  .top {
+    z-index: 10;
   }
 
   .this-is-a-heading-in {
@@ -50,14 +54,16 @@
     font-weight: 700;
     line-height: 34px;
     text-align: center;
-    margin-top: 30px;
+    position: flex;
+    margin-top: 22%;
+    margin-bottom: 8%;
   }
 
   .rectangle {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 90%;
   }
 
   .compare-pricing-toda {
@@ -78,7 +84,7 @@
     text-align: center;
   }
 
-  .top-buffer { margin-top:150px; }
+  .top-buffer { margin-top:7%; }
 
   .rectBtn {
     background-color: #FFFFFF;
@@ -181,7 +187,7 @@
     box-shadow: 0 8px 19px 0 rgba(0, 0, 0, 0.16);
     width: 214px;
     height: 230px;
-    margin-top: 15px ;
+    margin-top: 15px;
   }
 
   .big {
@@ -213,4 +219,32 @@
 
   .last {
     color: #0099FF;
+  }
+
+  .loved-by-users-reco-copy-2 {
+    color: #31373D;
+    font-family: aktiv-grotesk, sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 34px;
+  }
+
+  .lorem-ipsum-is-simple {
+    color: #8B8E91;
+    font-family: aktiv-grotesk, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 22px;
+  }
+
+  .left-buffer {
+    margin-left: 5%;
+  }
+
+  .case {
+    width: 75%;
+  }
+
+  .lowtop-buffer {
+    margin-top: 5%;
   }
