@@ -248,3 +248,69 @@
   .lowtop-buffer {
     margin-top: 5%;
   }
+
+  .heres-what-our-cust {
+    color: #31373D;
+    font-family: aktiv-grotesk, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: center;
+  }
+
+  .blockquote {
+    color: #8B8E91;
+    font-family: aktiv-grotesk, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 22px;
+    display: inline-block;
+    max-width: 450px;
+  }
+
+  .path {
+    width: 30px;
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+
+  .user {
+    width: 100%;
+  }
+
+  .username {
+    color: #31373D;
+    font-family: aktiv-grotesk, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+    font-style: normal;
+  }
+
+  .usertitle {
+    color: #31373D;
+    font-family: aktiv-grotesk, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    font-style: normal;
+  }
+
+  .oval {
+    background-image: linear-gradient(221.9deg, #D5E2E9 0%, #EAEEF1 100%);
+    border-radius: 100%;
+    width: 9px;
+    height: 9px;
+    margin-right: 9px;
+  }
+
+  .oval-active {
+    background-color: #0099FF;
+    border-radius: 100%;
+    width: 9px;
+    height: 9px;
+    margin-right: 9px;
+  }
