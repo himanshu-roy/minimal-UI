@@ -1,0 +1,23 @@
+{
+  "name": "minimal-ui",
+  "version": "1.0.0",
+  "description": "An elegant user interface.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu-roy/minimal-UI.git"
+  },
+  "author": "Himanshu Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu-roy/minimal-UI/issues"
+  },
+  "homepage": "https://github.com/himanshu-roy/minimal-UI#readme",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
