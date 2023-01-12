@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/himanshu-roy/minimal-UI#readme",
   "dependencies": {
-    "express": "4.13.3"
+    "express": "4.18.2"
   }
 }
